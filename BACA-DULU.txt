@@ -1,0 +1,11 @@
+TOKOKU - PAKET APLIKASI
+
+Upload ke GitHub (repositori Pencatatan-toko):
+1. Ekstrak zip ini di HP.
+2. Di halaman repositori, tekan Add file > Upload files.
+3. Pilih SEMUA file hasil ekstrak (7 file, jangan foldernya). Tekan Commit changes.
+4. File lama "TokoKu Atur Jualan.html" boleh dihapus (buka file > titik tiga > Delete file).
+5. Settings > Pages > Deploy from a branch > main / (root) > Save.
+6. Tunggu 1-2 menit, buka namamu.github.io/Pencatatan-toko di Chrome, lalu menu titik tiga > Instal aplikasi.
+
+Kalau index.html diubah di kemudian hari, ganti angka VERSION di sw.js (misal tokoku-v2).
